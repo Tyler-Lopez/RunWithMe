@@ -9,7 +9,7 @@ A fitness/social-media Android Application which aims to provide runners an easy
 * Gender-Specific Public
 * Public
 
-### Safety Features
+### Safety Features: Publicly Broadcasting a Run on RunWithMe
 
 User safety is of utmost important to the design of RunWithMe; users publicly broadcasting where and when they will be is inherently dangerous.
 
