@@ -12,7 +12,7 @@ A fitness/social-media Android Application which aims to provide runners an easy
 * Gender-Specific Public
   * The run is broadcast publicly to your gender.
 * Public
-  * The run is broadcast publicly to all genders.
+  * The run is broadcast publicly to all.
 
 ### Safety Features: Publicly Broadcasting a Run on RunWithMe
 
