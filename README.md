@@ -11,7 +11,7 @@ A fitness/social-media Android Application which aims to provide runners an easy
 
 ### Safety Features
 
-User safety is of utmost important in RunWithMe; users publicly broadcasting where and when they will be is inherently dangerous.
+User safety is of utmost important to the design of RunWithMe; users publicly broadcasting where and when they will be is inherently dangerous.
 
 * Default to gender-specific broadcasting(i.e. women to women).
 * When a user broadcasts their run publicly, other users have limited access to the 
