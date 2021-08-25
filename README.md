@@ -38,4 +38,10 @@ Pending
 
 ## UI Design
 #### Bottom Navigation
-The
+
+* Browse runs
+* My runs
+  * Runs which you own, or are either tentative or joined to.
+* Create new run FAB
+* Friends
+* Profile
