@@ -14,7 +14,10 @@ A fitness/social-media Android Application which aims to provide runners an easy
 User safety is of utmost important to the design of RunWithMe; users publicly broadcasting where and when they will be is inherently dangerous.
 
 * Default to gender-specific broadcasting(i.e. women to women).
-* When a user broadcasts their run publicly, other users have limited access to the 
+* When a user broadcasts their run to the public, other users have limited access to the details of the run.
+  * Test
+  * test
+* test 
 
 ### UML Diagram
 Pending
