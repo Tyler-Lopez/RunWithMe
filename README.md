@@ -4,10 +4,15 @@ A fitness/social-media Android Application which aims to provide runners an easy
 ### Run Broadcast Levels
 
 * Invite-Only Private
+  * The run is only shared with invited friends.
 * Friends Private
+  * The run is automatically shared with all friends, but is not broadcasted publicly.
 * Gender-Specific Friends Private
+  * The run is automatically shared with all friends of your gender, but is not broadcasted publicly.
 * Gender-Specific Public
+  * The run is broadcast publicly to your gender.
 * Public
+  * The run is broadcast publicly to all genders.
 
 ### Safety Features: Publicly Broadcasting a Run on RunWithMe
 
