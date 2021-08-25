@@ -35,3 +35,7 @@ User safety is of utmost important to the design of RunWithMe; users publicly br
 
 ## UML Diagram
 Pending
+
+## UI Design
+#### Bottom Navigation
+The
