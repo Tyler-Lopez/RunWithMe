@@ -21,7 +21,10 @@ User safety is of utmost important to the design of RunWithMe; users publicly br
   * The expected pace and distance of the run.
   * The city or township where the run will occur.
   * NO profile information on the user who broadcasted their run at all other than gender.
-* test 
+* When a user requests to join a publicly broadcasted run, the following occurs:
+  * The profile information of the requestor is sent to the broadcaster.
+  * The broadcaster may determine whether to invite the requestor.
+  * If invited, the requestor may see the full run information, profile of the broadcaster, and may then decide whether they are tentative or will commit to the run.
 
 ### UML Diagram
 Pending
