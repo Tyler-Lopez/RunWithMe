@@ -1,7 +1,9 @@
 # RunWithMe (Herd)
 A fitness/social-media Android Application which aims to provide runners an easy way to locally connect safely and coordinate group-runs.
 
-### Run Broadcast Levels
+Targeted release: Q2 2022
+
+## Run Broadcast Levels
 
 * Invite-Only Private
   * The run is only shared with invited friends.
@@ -14,7 +16,7 @@ A fitness/social-media Android Application which aims to provide runners an easy
 * Public
   * The run is broadcast publicly to all.
 
-### Safety Features: Publicly Broadcasting a Run on RunWithMe
+## Safety Features: Publicly Broadcasting a Run on RunWithMe
 
 User safety is of utmost important to the design of RunWithMe; users publicly broadcasting where and when they will be is inherently dangerous.
 
@@ -31,5 +33,5 @@ User safety is of utmost important to the design of RunWithMe; users publicly br
   * The broadcaster may determine whether to invite the requestor.
   * If invited, the requestor may see the full run information, profile of the broadcaster, and may then decide whether they are tentative or will commit to the run.
 
-### UML Diagram
+## UML Diagram
 Pending
