@@ -1,8 +1,6 @@
 # RunWithMe (Herd)
 A fitness/social-media Android Application which aims to provide runners an easy way to locally connect safely and coordinate group-runs.
 
-Targeted release: Q2 2022
-
 ## Run Broadcast Levels
 
 * Invite-Only Private
