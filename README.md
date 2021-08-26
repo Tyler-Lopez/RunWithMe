@@ -16,9 +16,10 @@ A fitness/social-media Android Application in development which aims to provide 
 
 ## Safety Features: Publicly Broadcasting a Run on RunWithMe
 
-User safety is of utmost important to the design of RunWithMe; users publicly broadcasting where and when they will be is inherently dangerous.
+User safety is of utmost important to the design of RunWithMe; users publicly broadcasting where and when they will be somewhere is inherently dangerous.
 
-* Default to gender-specific broadcasting(i.e. women to women).
+* Opt-in gender-specific broadcasting(i.e. women to women).
+* Opt-in emergency contact features if a user does not check-in after a run.
 * When a user broadcasts their run to the public, other users have limited access to the details of the run.
   * An approximate time the run will occur(Soon / Morning / Afternoon / Evening / Night).
   * The title of the run.
