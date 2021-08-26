@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "503349060256",
+    "project_id": "runwithme-beb7d",
+    "storage_bucket": "runwithme-beb7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503349060256:android:bfe4f825b3a8b627a85fc5",
+        "android_client_info": {
+          "package_name": "com.example.runwithme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503349060256-524rlnc4tpcr0t5clb259i3ah63alt3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA16F2iqJz9QXYn-ZgReH_tVIo8R6K3y04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503349060256-524rlnc4tpcr0t5clb259i3ah63alt3d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -2,6 +2,9 @@ package com.example.runwithme.datastructures
 
 import java.util.*
 
+val listOfRuns = mutableListOf<Run>()
+
+
 class Run(
     val createdBy: User,
     var title: String,
