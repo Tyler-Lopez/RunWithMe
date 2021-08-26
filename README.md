@@ -1,5 +1,5 @@
 # RunWithMe (Herd)
-A fitness/social-media Android Application in development which aims to provide runners an easy way to locally connect safely and coordinate group-runs.
+A fitness/social-media Android Application in development which aims to provide runners an easy way to locally connect safely and coordinate group-runs. Will leverage Firebase BaaS.
 
 ## Run Broadcast Levels
 
