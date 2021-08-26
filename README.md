@@ -19,7 +19,7 @@ A fitness/social-media Android Application in development which aims to provide 
 User safety is of utmost important to the design of RunWithMe; users publicly broadcasting where and when they will be somewhere is inherently dangerous.
 
 * Opt-in gender-specific broadcasting(i.e. women to women).
-* Opt-in emergency contact features if a user does not check-in after a run.
+* Opt-in emergency contact features if a user does not check-in with an emergency contact after a run.
 * When a user broadcasts their run to the public, other users have limited access to the details of the run.
   * An approximate time the run will occur(Soon / Morning / Afternoon / Evening / Night).
   * The title of the run.
