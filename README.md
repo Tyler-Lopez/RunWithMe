@@ -26,7 +26,7 @@ User safety is of utmost important to the design of RunWithMe; users publicly br
   * How many users have either joined or are tentatively planning to attend.
   * The expected pace and distance of the run.
   * The city or township where the run will occur.
-  * NO profile information on the user who broadcasted their run at all other than gender.
+  * Minimal profile information broadcasted.
 * When a user requests to join a publicly broadcasted run, the following occurs:
   * The profile information of the requestor is sent to the broadcaster.
   * The broadcaster may determine whether to invite the requestor.
