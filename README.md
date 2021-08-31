@@ -1,7 +1,7 @@
 # RunWithMe (Herd)
 A fitness/social-media Android Application in development which aims to provide runners an easy way to locally connect safely and coordinate group-runs. Will leverage Firebase BaaS.
 
-This is a work-in-progress as I learn Kotlin, Firebase, and Jetpack Compose. For more complete examples of my work in Android Studio see these more simple projects: 
+This is a work-in-progress as I learn Kotlin, Firebase, and Jetpack Compose. For more complete examples of my work in Android Studio please see these more simple projects: 
 
 https://github.com/Tyler-Lopez/Firestore-Data-Management-on-Android
 
